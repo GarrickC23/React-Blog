@@ -1,3 +1,6 @@
+Followed a YouTube tutorial to build a blog website learning the basics of React along with previous knowledge of HTML, CSS, and Javascript.
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
